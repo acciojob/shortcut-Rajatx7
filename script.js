@@ -4,14 +4,9 @@ function shortcut(s1, s2) {
 		return '';
 	}
 else{
-	let str=s1.chatAt(0)+s1.chatAt(0);
+	let str=s1.chaAt(0)+s1.charAt(0);
 	return str;
 }
-
-
-
-
-
 
 	
 }
